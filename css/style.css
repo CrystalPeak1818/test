@@ -66,8 +66,7 @@ h1 {
   font-size: 0.7em;
 }
 
-/*
-.nav-color {
-background-color: #FFFFFF;
 
-} */
+.nav-color {
+background-color: #ffffff !important;
+}
