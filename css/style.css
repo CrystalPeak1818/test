@@ -60,7 +60,7 @@ h1 {
 }
 
 .Bilder {
-  float: center;
+  float: left;
   width: 350px;
   padding: 3px;
   font-size: 0.7em;
