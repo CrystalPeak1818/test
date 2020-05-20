@@ -36,6 +36,10 @@ div {
   font-family: 'Jost', sans-serif;
 }
 
+.card-title {
+  font-family: 'Oswald',sans-serif;
+}
+
 .kostenlinks {
   text-align: left;
 }
@@ -52,8 +56,6 @@ h2 {
    margin-bottom: 1 rem !important;
    font-family: 'Jost', sans-serif;
 }
-
-
 
 .ausrichtung {
   text-align: center;
