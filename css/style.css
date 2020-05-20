@@ -36,6 +36,13 @@ div {
   font-family: 'Jost', sans-serif;
 }
 
+.unsertextkontakt {
+  text-align: center;
+  padding: 0px 50px 0px;
+  color:black;
+  font-family: 'Lato', sans-serif;
+}
+
 .card-title {
   font-family: 'Oswald', sans-serif;
 }
