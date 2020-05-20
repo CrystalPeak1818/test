@@ -47,6 +47,10 @@ div {
   font-family: 'Oswald', sans-serif;
 }
 
+.col-lg-6 col-xl-4 {
+  padding-right: 0px;
+}
+
 .kostenlinks {
   text-align: left;
 }
