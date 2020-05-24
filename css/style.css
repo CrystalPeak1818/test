@@ -3,6 +3,14 @@ body {
   background-color: white;
 }
 
+Einrichtung {
+  text-align: center !important;
+}
+
+EinrichtungText {
+  padding-left: 10px !important;
+}
+
 .container-fluid {
   padding-right: 0px;
   padding-left: 0px;
