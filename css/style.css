@@ -76,6 +76,10 @@ h2 {
   text-align: center;
 }
 
+.text {
+  padding-left: 10px;
+}
+
 .download {
   width: 60px;
   padding-bottom: 3vw;
