@@ -107,3 +107,9 @@ background-color: #ffffff !important;
 #MarginKontakt, #MarginKontakt2 {
   margin-top: 50px;
 }
+
+.vids {
+   width: inherit;
+   margin-left: auto;
+   margin-right: auto;
+}
