@@ -111,3 +111,7 @@ background-color: #ffffff !important;
 .card.noborder {
    border: none;
 }
+
+.card-body {
+   padding: 0.25rem !important;
+}
